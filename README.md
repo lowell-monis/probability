@@ -1,6 +1,6 @@
-# Fall 2024: STT 441 Probability & Statistics I: Probability
+# Fall 2024, STT 441 Probability & Statistics I: Probability
 
-Computational work done for MSU's STT 441 by Lowell Monis during Fall Semester 2024.
+This repository contains the computational work done by Lowell Monis for Dr. Yuying Xie's STT 441 at Michigan State University during the Fall Semester of 2024.
 
 ## Contents
 
